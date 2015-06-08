@@ -4,4 +4,6 @@ class PagesController < ApplicationController
 
   def about
   end
+  def success_stories
+  end
 end
